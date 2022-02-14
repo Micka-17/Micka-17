@@ -1,6 +1,6 @@
 # Boi_Mickael
 
-#Bienvenue sur mon Github 👋
+# Bienvenue sur mon Github 👋
 Je m'appelle Mickael, j'ai 28 ans et je suis actuellement en train de me former au développement Web avec une grande appétence pour le front. En Aout  2021, j'ai commencé une reconversion professionnelle avec une formation certifiante Développeur web niveau bac+2 chez Openclassrooms.
 
 Par le biais de cette formation j'ai réalisé 6 projets, du plus simple HTML5 et CSS3 pour le projet I au framework React et Axios pour le VI:
