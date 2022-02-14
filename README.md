@@ -20,3 +20,8 @@ VI/ https://github.com/Micka-17/boimickael_7_16042021 ((Réseaux social front an
 Mon site CV personnel (full React) : https://micka-17.github.io/React_CV/
 
 Un bot Discord (DiscordJs V13) : https://github.com/Micka-17/bot_discords
+
+# Compétences :
+Javascript HTML5 CSS3 MySQL
+
+React Axios Bootstrap
